@@ -1,6 +1,6 @@
 function Header(){
     return (
-        <p>COMPONENTE UNO</p>
+        <p className="header">COMPONENTE UNO</p>
 
     )
 }

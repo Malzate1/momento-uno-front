@@ -1,6 +1,6 @@
 function Card(){
     return(
-        <article>
+        <article className="card">
             <section>COMPONENTE DOS</section>
             <section>
                 TITULO

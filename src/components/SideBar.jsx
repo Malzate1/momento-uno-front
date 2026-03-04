@@ -1,6 +1,6 @@
 function SideBar(){
     return(
-        <aside>
+        <aside className="side-bar">
             <section><p>COMPONENTE TRES</p></section>
             <section>
                 <p>TITULO</p>
