@@ -3,7 +3,7 @@ function SideBar(){
         <aside>
             <section><p>COMPONENTE TRES</p></section>
             <section>
-                <h3>TITULO</h3>
+                <p>TITULO</p>
             </section>
         </aside>
     )

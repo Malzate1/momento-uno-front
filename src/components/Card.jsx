@@ -1,9 +1,9 @@
 function Card(){
     return(
         <article>
-            <section> </section>
+            <section>COMPONENTE DOS</section>
             <section>
-                <h4><b>TITULO</b></h4>
+                TITULO
             </section>
         </article>
     )

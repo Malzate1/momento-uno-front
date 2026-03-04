@@ -1,6 +1,6 @@
 function Header(){
     return (
-        <h3>COMPONENTE UNO</h3>
+        <p>COMPONENTE UNO</p>
 
     )
 }
