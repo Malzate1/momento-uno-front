@@ -69,10 +69,11 @@ main {
   width: 280px;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-start;
   align-items: center;
   padding: 32px 24px;
   background-color: #b8a898;
+  padding-top: 330px;
 }
 
 .side-bar section {
@@ -90,6 +91,7 @@ main {
 .side-bar section:nth-child(1) {
   background-color: var(--color-card-top);
   border-radius: var(--radius) var(--radius) 0 0;
+  
 }
 
 .side-bar section:nth-child(2) {
